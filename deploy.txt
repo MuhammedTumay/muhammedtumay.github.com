@@ -1,0 +1,7 @@
+# Open terminal
+# Go to 
+cd ~/Downloads/WHITE_EDITION
+git status
+git add .
+git commit -m "Finished Initial Version"
+git push origin master
